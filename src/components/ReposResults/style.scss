@@ -1,0 +1,8 @@
+.repos-results {
+  margin-bottom: var(--gutter);
+  .ui.cards {
+    @media screen and (max-width: 800px) {
+      margin-top: 0;
+    }
+  }
+}
